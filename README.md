@@ -8,7 +8,7 @@ Welcome to the frontend application built using React, Vite, and Tailwind CSS, f
      - [Installation](#installation)
      - [Running the Application](#running-the-application)
 - [Styling](#styling)
-       -[Adding Custom Styles](#adding-custom-styles)
+       - [Adding Custom Styles](#adding-custom-styles)
 
 # Project Overview
 This is a modern frontend application leveraging React for building user interfaces, Vite for fast builds and development, and Tailwind CSS for utility-first CSS styling. The application includes a dark mode feature that enhances user experience, especially in low-light environments.
