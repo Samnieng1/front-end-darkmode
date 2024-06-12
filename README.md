@@ -1,5 +1,13 @@
 # Frontend Application
 Welcome to the frontend application built using React, Vite, and Tailwind CSS, featuring a dark mode toggle. This README document will guide you through the setup, development, and deployment process.
+## Table of Contents
+- [Project Overview](#projectoverview)
+- [Features](#features)
+- [Getting Started](#gettingstarted)
+- [Prerequisites](##prerequisite)
+- [Installation](##installation)
+- [Running the Application](##runningtheapplication)
+- [Styling](#styling)
 
 # Project Overview
 This is a modern frontend application leveraging React for building user interfaces, Vite for fast builds and development, and Tailwind CSS for utility-first CSS styling. The application includes a dark mode feature that enhances user experience, especially in low-light environments.
@@ -15,8 +23,9 @@ This is a modern frontend application leveraging React for building user interfa
 ## Prerequisites
 Make sure you have the following software installed:
 
-`-` [Node.js](https://nodejs.org/en) (version 14 or higher)
-`-` [npm](https://www.npmjs.com/) (version 6 or higher) or yarn (version 1.22 or higher)
+- [Node.js](https://nodejs.org/en) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (version 6 or higher) or yarn (version 1.22 or higher)
+
 ## Installation
 1. Clone the repository:
    git clone https://github.com/your-username/your-repo-name.git
