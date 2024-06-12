@@ -1,12 +1,12 @@
 # Frontend Application
 Welcome to the frontend application built using React, Vite, and Tailwind CSS, featuring a dark mode toggle. This README document will guide you through the setup, development, and deployment process.
 ## Table of Contents
-- [Project Overview](#projectoverview)
+- [Project Overview](#project-overview)
 - [Features](#features)
-- [Getting Started](#gettingstarted)
-- [Prerequisites](##prerequisite)
-- [Installation](##installation)
-- [Running the Application](##runningtheapplication)
+- [Getting Started](#getting-started)
+     - [Prerequisites](##prerequisite)
+     - [Installation](##installation)
+     - [Running the Application](##running-the-application)
 - [Styling](#styling)
 
 # Project Overview
