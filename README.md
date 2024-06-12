@@ -8,6 +8,7 @@ Welcome to the frontend application built using React, Vite, and Tailwind CSS, f
      - [Installation](#installation)
      - [Running the Application](#running-the-application)
 - [Styling](#styling)
+       -[Adding Custom Styles](#adding-custom-styles)
 
 # Project Overview
 This is a modern frontend application leveraging React for building user interfaces, Vite for fast builds and development, and Tailwind CSS for utility-first CSS styling. The application includes a dark mode feature that enhances user experience, especially in low-light environments.
@@ -31,12 +32,13 @@ Make sure you have the following software installed:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 3. Install the dependencies: npm install
-4. Run the Applicaiton: npm run dev
+## Running the Applicaiton
+     npm run dev
   Open your browser and navigate to `http://localhost:5173/` to see the application running.
 
 # Styling
 We use Tailwind CSS for styling. The configuration can be found in the tailwind.config.js file. You can customize the theme, extend the default styles, and add plugins as needed.
 
-# Adding Custom Styles
+## Adding Custom Styles
 To add custom styles, you can use the src/index.css file or create additional CSS files and import them into your components.
 
