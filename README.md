@@ -28,10 +28,10 @@ Make sure you have the following software installed:
 - [npm](https://www.npmjs.com/) (version 6 or higher) or yarn (version 1.22 or higher)
 
 ## Installation
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+1. **Clone the repository**:
+   git clone https://github.com/Samnieng1/front-end-darkmode.git
    cd your-repo-name
-3. Install the dependencies: npm install
+2. **Install the dependencies**: npm install
 ## Running the Applicaiton
      npm run dev
   Open your browser and navigate to `http://localhost:5173/` to see the application running.
