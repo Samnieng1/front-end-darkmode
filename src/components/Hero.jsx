@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
     return (
-        <div className='bg-hero bg-cover bg-no-repeat bg-local
+        <div className=' bg-cover bg-no-repeat bg-local
         bg-center object-cover w-screen h-[250px] sm:min-h-[350px] md:min-h-[350px] 
         lg:min-h-[550px] xl:min-h-[550px] notebook15i:min-h-[570px]
         desktop:min-h-[550px] 2xl:min-h-[550px] 3xl:min-h-[650px] 6xl:min-h-[1000px]'>
@@ -15,7 +15,8 @@ function Hero() {
                 lg:text-4xl notebook15i:text-5xl xl:text-5xl desktop:text-6xl 7xl:text-8xl
                 gap-4 lg:gap-8 xl:gap-9 notebook15i:gap-10 7xl:gap-28
                 md:py-6 lg:py-10 xl:py-12 notebook15i:py-14 desktop:py-16
-                2xl:py-20 3xl:py-24 4xl:py-28 6xl:py-32 7xl:py-56'>
+                2xl:py-20 3xl:py-24 4xl:py-28 6xl:py-32 7xl:py-56
+                dark:text-blue-500'>
                     <h1>Welcome to</h1>
                     <h1>Chihuahua World!</h1>
                 </div>
