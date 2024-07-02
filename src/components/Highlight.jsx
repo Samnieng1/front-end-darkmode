@@ -4,7 +4,7 @@ function Highlight() {
     return (
         <div>
             <div className='flex flex-col lg:flex-row text-left
-            text-sm lg:text-base xl:text-lg'>
+            text-sm dark:text-blue-500 lg:text-base xl:text-lg py-4'>
                 <div className='px-4 lg:w-1/3'>
                     <div className='w-full'>
                         <img src='/images/Chi1.jpg' />

@@ -17,6 +17,7 @@ export default {
         paytone:['"Paytone One"', 'sans-serif'],
         roboto:['"Roboto"', 'sans-serif'],
         sedgwickAveDisplay:['"Sedgwick Ave Display"', 'cursive'],
+        pacifico:['"Pacificoy"', 'cursive'],
       },
 
     },
