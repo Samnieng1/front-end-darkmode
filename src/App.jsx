@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Hero from './components/Hero'
+import Highlight from './components/Highlight';
 
 function App() {
 const [theme, setTheme] = useState(null);
@@ -33,6 +34,7 @@ const handleThemeSwitch = () =>{
     </button>
     <div className='bg-white dark:bg-slate-900'>
       <Hero />
+      <Highlight/>
     </div>
     </>
   )
