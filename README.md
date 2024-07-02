@@ -30,8 +30,7 @@ Make sure you have the following software installed:
 ## Installation
 1. **Clone the repository**:
    git clone https://github.com/Samnieng1/front-end-darkmode.git
-   
-     2. cd front-end-darkmode
+2. cd front-end-darkmode
 3. **Install the dependencies**: npm install
 ## Running the Applicaiton
      npm run dev
