@@ -37,7 +37,7 @@ Make sure you have the following software installed:
   Open your browser and navigate to `http://localhost:5173/` to see the application running.
 
 # Styling
-We use Tailwind CSS for styling. The configuration can be found in the tailwind.config.js file. You can customize the theme, extend the default styles, and add plugins as needed.
+I used Tailwind CSS for styling. The configuration can be found in the tailwind.config.js file. You can customize the theme, extend the default styles, and add plugins as needed.
 
 ## Adding Custom Styles
 To add custom styles, you can use the src/index.css file or create additional CSS files and import them into your components.
